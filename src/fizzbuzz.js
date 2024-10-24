@@ -1,3 +1,14 @@
+/**
+ * Generates an array containing the results of the FizzBuzz challenge for numbers 1 through 15.
+ * 
+ * The FizzBuzz challenge is a common programming task where:
+ * - Numbers divisible by 3 are replaced with "Fizz".
+ * - Numbers divisible by 5 are replaced with "Buzz".
+ * - Numbers divisible by both 3 and 5 are replaced with "FizzBuzz".
+ * - Other numbers remain unchanged.
+ * 
+ * @returns {Array<string|number>} An array with the FizzBuzz results.
+ */
 const answer = []
 
 // Write your code below this line
